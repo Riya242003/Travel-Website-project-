@@ -116,7 +116,7 @@ h1,h2,h3{
 .header {
     height : 95vh;
     position:relative;
-    background :linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url("../Image/header-image.jpg") ;  /*linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) is used to make background color dark */
+    background :linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url("./Image/header-image.jpg") ;  /*linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) is used to make background color dark */
     background-position : center; /* when we increase or decrease the size of file center will not decrese it will be constant */
     background-size : cover;
     background-repeat : no-repeat;
